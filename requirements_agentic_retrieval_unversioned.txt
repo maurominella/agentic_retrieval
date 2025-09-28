@@ -6,3 +6,4 @@ requests
 python-dotenv
 pillow
 jupyter
+azure-ai-projects
